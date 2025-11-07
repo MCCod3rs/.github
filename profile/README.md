@@ -1,13 +1,47 @@
-## Hi there 👋 Welcome to MCCod3rs!
-## This is a place for Morgan Community College students to explore their coding skills
+# 👋 Welcome to the MCC Coding Club Hackathon!
 
-<!--
+Welcome to the Morgan Community College Coding Club Hackathon! We’re excited to have you here. This space is where you’ll collaborate, create, experiment, and build something awesome—whether you’re brand new to programming or already sharpening your skills.
+---
 
-**Here are some ideas to get you started:**
+## ✅ Getting Started
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+### Create a GitHub Account
+If you don’t already have one, sign up at https://github.com and send me your GitHub username so I can add you to the organization.
+
+### Explore the Starter Repositories
+Check out the base projects we’ve provided for inspiration and ideas. Feel free to build on them, remix them, or use them as a launch point for your own concept.
+
+### Tell Us Your Preferred Tools
+Let us know what development environment you normally use (PyCharm, VS Code, etc.). If you need training or setup help, we’re here for you.
+
+### Form Your Team
+Meet other participants, talk through interests, and build a team.
+
+### Start Hacking & Have Fun!
+Dive into your project, experiment, build, break things, fix them, and enjoy the process.
+This is a learning-first environment; ask questions, collaborate, and don’t worry about being perfect.
+No one here is an expert, and no one expects you to be.
+
+---
+## 🧭 Coding Club Code of Conduct
+
+We want this hackathon to be a positive, collaborative experience for everyone. Please follow a few simple expectations:
+
+- **Treat everyone with respect.**  
+  Be kind, patient, and supportive.
+
+- **Respect ideas and perspectives.**  
+  All skill levels and viewpoints are welcome—encourage others and avoid dismissive behavior.
+
+- **Help each other grow.**  
+  Share knowledge, offer guidance, and create an environment where everyone feels comfortable participating.
+
+- **Keep communication constructive.**  
+  Critique ideas, not people. Celebrate wins—big or small.
+
+- **Have fun and build something you’re proud of.**
+
+---
+
+If you have questions or need help at any point, just reach out.  
+We’re glad you’re here—now go build something incredible! 🚀
