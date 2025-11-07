@@ -31,17 +31,17 @@ We want this hackathon to be a positive, collaborative experience for everyone. 
   Be kind, patient, and supportive.
 
 - **Respect ideas and perspectives.**  
-  All skill levels and viewpoints are welcome—encourage others and avoid dismissive behavior.
+  All skill levels and viewpoints are welcome, encourage others and avoid dismissive behavior.
 
 - **Help each other grow.**  
   Share knowledge, offer guidance, and create an environment where everyone feels comfortable participating.
 
 - **Keep communication constructive.**  
-  Critique ideas, not people. Celebrate wins—big or small.
+  Critique ideas, not people. Celebrate wins, big or small.
 
 - **Have fun and build something you’re proud of.**
 
 ---
 
 If you have questions or need help at any point, just reach out.  
-We’re glad you’re here—now go build something incredible! 🚀
+We’re glad you’re here, now go build something incredible! 🚀
