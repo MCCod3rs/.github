@@ -1,6 +1,6 @@
-# 👋 Welcome to the MCC Coding Club Hackathon!
+# 👋 Welcome to the MCC Coding Club!
 
-Welcome to the Morgan Community College Coding Club Hackathon! We’re excited to have you here. This space is where you’ll collaborate, create, experiment, and build something awesome—whether you’re brand new to programming or already sharpening your skills.
+Welcome to the Morgan Community College Coding Club! We’re excited to have you here. This space is where you’ll collaborate, create, experiment, and build something awesome—whether you’re brand new to programming or already sharpening your skills.
 ---
 
 ## ✅ Getting Started
